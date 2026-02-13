@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Juan Gianella Blanco
 
-I’m a Systems Engineer from Bolivia. I studied at the Universidad Privada de Santa Cruz de la Sierra (UPSA), where I defended my thesis on a 2D structural stability analysis software and graduated Summa Cum Laude. After completing my degree, I decided to follow one of my lifelong passions — video game development — and pursued a Master’s in Advanced Video Game Programming at U-Tad University in Spain.
+I’m a Software Engineer from Bolivia. I studied at the Universidad Privada de Santa Cruz de la Sierra (UPSA), where I defended my thesis on a 2D structural stability analysis software and graduated Summa Cum Laude. After completing my degree, I decided to follow one of my lifelong passions — video game development — and pursued a Master’s in Advanced Video Game Programming at U-Tad University in Spain.
 
 My journey into tech started back in 2019, when I first opened this GitHub account and began diving into programming fundamentals, OOP, computer networks, advanced data structures, operating systems, databases, software engineering, web development, and AI. In 2023, I completed a front-end internship in Santa Cruz de la Sierra, where I was responsible for debugging and fixing UI issues in production codebases — an experience that strengthened my attention to detail and problem-solving mindset.
 
